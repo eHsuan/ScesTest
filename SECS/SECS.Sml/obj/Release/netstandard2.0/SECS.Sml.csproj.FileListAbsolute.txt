@@ -1,0 +1,11 @@
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\bin\Release\netstandard2.0\SECS.Sml.deps.json
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\bin\Release\netstandard2.0\SECS.Sml.dll
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\bin\Release\netstandard2.0\SECS.Sml.pdb
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\bin\Release\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\bin\Release\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\obj\Release\netstandard2.0\SECS.Sml.csprojAssemblyReference.cache
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\obj\Release\netstandard2.0\SECS.Sml.AssemblyInfoInputs.cache
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\obj\Release\netstandard2.0\SECS.Sml.AssemblyInfo.cs
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\obj\Release\netstandard2.0\SECS.Sml.csproj.CopyComplete
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\obj\Release\netstandard2.0\SECS.Sml.dll
+D:\CS\SecsTest v1.03 Beta\SECS\SECS.Sml\obj\Release\netstandard2.0\SECS.Sml.pdb

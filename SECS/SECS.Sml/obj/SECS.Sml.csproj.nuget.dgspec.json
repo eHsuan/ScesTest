@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS.Sml\\SECS.Sml.csproj": {}
+  },
+  "projects": {
+    "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS.Sml\\SECS.Sml.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS.Sml\\SECS.Sml.csproj",
+        "projectName": "SECS.Sml",
+        "projectPath": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS.Sml\\SECS.Sml.csproj",
+        "packagesPath": "C:\\Users\\ac131\\.nuget\\packages\\",
+        "outputPath": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS.Sml\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ac131\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS\\SECS.csproj": {
+                "projectPath": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS\\SECS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS\\SECS.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS\\SECS.csproj",
+        "projectName": "SECS",
+        "projectPath": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS\\SECS.csproj",
+        "packagesPath": "C:\\Users\\ac131\\.nuget\\packages\\",
+        "outputPath": "D:\\CS\\SecsTest v1.03 Beta\\SECS\\SECS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ac131\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.5.2, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

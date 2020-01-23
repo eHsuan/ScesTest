@@ -1,0 +1,47 @@
+D:\CS\SecsTest\SECS\Core\SECS\bin\Debug\netstandard2.0\SECS.deps.json
+D:\CS\SecsTest\SECS\Core\SECS\bin\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest\SECS\Core\SECS\bin\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.csprojAssemblyReference.cache
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.Resources.resources
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.csproj.GenerateResource.cache
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoInputs.cache
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest\SECS\Core\SECS\obj\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest\SECS\SECS\bin\Debug\netstandard2.0\SECS.deps.json
+D:\CS\SecsTest\SECS\SECS\bin\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest\SECS\SECS\bin\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.Resources.resources
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.GenerateResource.cache
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoInputs.cache
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.01\SECS\SECS\bin\Debug\netstandard2.0\SECS.deps.json
+D:\CS\SecsTest v1.01\SECS\SECS\bin\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.01\SECS\SECS\bin\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.01\SECS\SECS\obj\Debug\netstandard2.0\SECS.Resources.resources
+D:\CS\SecsTest v1.01\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.GenerateResource.cache
+D:\CS\SecsTest v1.01\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoInputs.cache
+D:\CS\SecsTest v1.01\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
+D:\CS\SecsTest v1.01\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.01\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.02\SECS\SECS\bin\Debug\netstandard2.0\SECS.deps.json
+D:\CS\SecsTest v1.02\SECS\SECS\bin\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.02\SECS\SECS\bin\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.csprojAssemblyReference.cache
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.Resources.resources
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.GenerateResource.cache
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoInputs.cache
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.02\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\bin\Debug\netstandard2.0\SECS.deps.json
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\bin\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\bin\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.Resources.resources
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.GenerateResource.cache
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoInputs.cache
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
+D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb

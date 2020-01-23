@@ -1,0 +1,11 @@
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\bin\Debug\netstandard2.0\Secs4Net.Sml.deps.json
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\bin\Debug\netstandard2.0\Secs4Net.Sml.dll
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\bin\Debug\netstandard2.0\Secs4Net.Sml.pdb
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\bin\Debug\netstandard2.0\Secs4Net.dll
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\bin\Debug\netstandard2.0\Secs4Net.pdb
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\obj\Debug\netstandard2.0\Secs4Net.Sml.csprojAssemblyReference.cache
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\obj\Debug\netstandard2.0\Secs4Net.Sml.AssemblyInfoInputs.cache
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\obj\Debug\netstandard2.0\Secs4Net.Sml.AssemblyInfo.cs
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\obj\Debug\netstandard2.0\Secs4Net.Sml.csproj.CopyComplete
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\obj\Debug\netstandard2.0\Secs4Net.Sml.dll
+D:\CS\secs4net-master\secs4net\Extension\Serialization.Sml\obj\Debug\netstandard2.0\Secs4Net.Sml.pdb
