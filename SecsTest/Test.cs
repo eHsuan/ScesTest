@@ -16,5 +16,9 @@ namespace SecsTest
         {
             return a + b;
         }
+        public static bool CheckNull(string a)
+        {
+            return String.IsNullOrEmpty(a);
+        }
     }
 }
