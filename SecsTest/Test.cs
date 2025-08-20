@@ -12,5 +12,9 @@ namespace SecsTest
         {
             return a + b;
         }
+        public static int CompareInt(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
