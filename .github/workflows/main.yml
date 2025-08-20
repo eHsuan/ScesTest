@@ -1,4 +1,4 @@
-name: .NET Framework Build + MSTest
+name: Build+Test+Release
 
 on:
   push:
