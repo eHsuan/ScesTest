@@ -1,0 +1,36 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'  
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: 取得原始碼
+      uses: actions/checkout@v3
+
+    - name: 安裝 MSBuild
+      uses: microsoft/setup-msbuild@v1
+
+    - name: 還原 NuGet 套件
+      run: nuget restore SecsTest.sln
+
+    - name: 建置專案
+      run: msbuild SecsTest.sln /p:Configuration=Release
+
+    - name: 壓縮執行檔
+      run: |
+        mkdir output
+        copy SecsTest\bin\Release\* output\
+        powershell Compress-Archive -Path output\* -DestinationPath SecsTest.zip
+
+    - name: 發佈 Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: SecsTest.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
