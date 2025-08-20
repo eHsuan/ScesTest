@@ -2,10 +2,8 @@ name: .NET Framework Build + MSTest
 
 on:
   push:
-    branches: [ master ]      
-  pull_request:
-    branches: [ master ]
-  workflow_dispatch:
+   tags:
+      - 'v*'
 
 jobs:
   build:
