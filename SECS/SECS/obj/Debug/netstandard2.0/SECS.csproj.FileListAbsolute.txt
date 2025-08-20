@@ -45,3 +45,4 @@ D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoIn
 D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
 D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
 D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb
+D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.csprojAssemblyReference.cache

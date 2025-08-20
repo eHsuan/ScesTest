@@ -108,11 +108,6 @@ D:\CS\SecsTest\SecsTest\obj\Debug\SecsTest.csproj.GenerateResource.cache
 D:\CS\SecsTest\SecsTest\obj\Debug\SecsTest.csproj.CopyComplete
 D:\CS\SecsTest\SecsTest\obj\Debug\SecsTest.exe
 D:\CS\SecsTest\SecsTest\obj\Debug\SecsTest.pdb
-D:\CS\SecsTest\SecsTest\bin\Debug\EntityFramework.dll
-D:\CS\SecsTest\SecsTest\bin\Debug\EntityFramework.SqlServer.dll
-D:\CS\SecsTest\SecsTest\bin\Debug\EntityFramework.xml
-D:\CS\SecsTest\SecsTest\bin\Debug\EntityFramework.SqlServer.xml
-D:\CS\SecsTest\SecsTest\bin\Debug\zh-Hant\EntityFramework.resources.dll
 D:\CS\SecsTest\SecsTest\bin\Debug\SECS.Sml.dll
 D:\CS\SecsTest\SecsTest\bin\Debug\SECS.Sml.pdb
 D:\CS\SecsTest\SecsTest\bin\Debug\SECS.dll

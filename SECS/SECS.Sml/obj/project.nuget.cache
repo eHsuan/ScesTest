@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlRTem5s5U9Qs5TUrEO33rJRoWh7Y9fVBl+pCotZnm4KmfKfT/uZ35Pu4lmLapojXbxe8MmRASNpM/rGkXrqUA==",
+  "success": true,
+  "projectFilePath": "E:\\CS\\SecsTest\\SECS\\SECS.Sml\\SECS.Sml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ac131\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ac131\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ac131\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\ac131\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ac131\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\ac131\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\ac131\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
