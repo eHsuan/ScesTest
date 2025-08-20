@@ -46,3 +46,15 @@ D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.c
 D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
 D:\CS\SecsTest v1.03 Beta\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb
 D:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.csprojAssemblyReference.cache
+E:\CS\SecsTest\SECS\SECS\bin\Debug\netstandard2.0\SECS.deps.json
+E:\CS\SecsTest\SECS\SECS\bin\Debug\netstandard2.0\SECS.dll
+E:\CS\SecsTest\SECS\SECS\bin\Debug\netstandard2.0\SECS.pdb
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.AssemblyReference.cache
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.Resources.resources
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.GenerateResource.cache
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfoInputs.cache
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.AssemblyInfo.cs
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.csproj.CoreCompileInputs.cache
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.dll
+E:\CS\SecsTest\SECS\SECS\obj\Debug\netstandard2.0\SECS.pdb
