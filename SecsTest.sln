@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SECS", "SECS\SECS\SECS.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SECS.Sml", "SECS\SECS.Sml\SECS.Sml.csproj", "{4A526EE2-0DC0-482C-A121-7D0BED9ED3A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecsTest.Test", "SecsTest.Test\SecsTest.Test.csproj", "{1800809E-7039-4928-A84E-1FA91F023620}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecsTest.Tests", "SecsTest.Tests\SecsTest.Tests.csproj", "{55B3DC49-E212-41BB-A068-43A6ED172170}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{4A526EE2-0DC0-482C-A121-7D0BED9ED3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A526EE2-0DC0-482C-A121-7D0BED9ED3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A526EE2-0DC0-482C-A121-7D0BED9ED3A5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1800809E-7039-4928-A84E-1FA91F023620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1800809E-7039-4928-A84E-1FA91F023620}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1800809E-7039-4928-A84E-1FA91F023620}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1800809E-7039-4928-A84E-1FA91F023620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B3DC49-E212-41BB-A068-43A6ED172170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B3DC49-E212-41BB-A068-43A6ED172170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B3DC49-E212-41BB-A068-43A6ED172170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B3DC49-E212-41BB-A068-43A6ED172170}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
